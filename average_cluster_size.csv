@@ -1,0 +1,37 @@
+,index,ParticleNumber,AvgClusterSizeAcrossSimulations,Case
+0,0,10,1.098094,General
+1,1,11,1.101908,General
+2,2,12,1.10419,General
+3,3,13,1.104305,General
+4,4,14,1.105287,General
+5,5,15,1.107595,General
+6,6,16,1.109175,General
+7,7,17,1.110024,General
+8,8,18,1.111788,General
+9,9,19,1.113148,General
+10,10,20,1.120089,General
+11,11,21,1.121878,General
+12,12,10,1.098815,High V Low T
+13,13,11,1.09984,High V Low T
+14,14,12,1.100473,High V Low T
+15,15,13,1.101635,High V Low T
+16,16,14,1.10262,High V Low T
+17,17,15,1.103598,High V Low T
+18,18,16,1.105655,High V Low T
+19,19,17,1.106063,High V Low T
+20,20,18,1.107751,High V Low T
+21,21,19,1.11072,High V Low T
+22,22,20,1.110902,High V Low T
+23,23,21,1.111604,High V Low T
+24,24,10,1.083303,Low V High T
+25,25,11,1.083541,Low V High T
+26,26,12,1.083831,Low V High T
+27,27,13,1.086631,Low V High T
+28,28,14,1.089774,Low V High T
+29,29,15,1.095622,Low V High T
+30,30,16,1.095923,Low V High T
+31,31,17,1.097932,Low V High T
+32,32,18,1.098461,Low V High T
+33,33,19,1.098966,Low V High T
+34,34,20,1.099765,Low V High T
+35,35,21,1.105991,Low V High T

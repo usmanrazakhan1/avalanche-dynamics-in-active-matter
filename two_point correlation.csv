@@ -1,0 +1,37 @@
+index,system size,cov,case
+1,10,-4.083022609,general
+2,11,-4.087032253,general
+3,12,-4.123993041,general
+4,13,-4.125505984,general
+5,14,-4.131061151,general
+6,15,-4.14359934,general
+7,16,-4.182909658,general
+8,17,-4.19838905,general
+9,18,-4.200773993,general
+10,19,-4.201856932,general
+11,20,-4.227214849,general
+12,21,-4.279951529,general
+13,10,-4.052754473,high v low t
+14,11,-4.064868432,high v low t
+15,12,-4.09577127,high v low t
+16,13,-4.108068135,high v low t
+17,14,-4.136190867,high v low t
+18,15,-4.146454526,high v low t
+19,16,-4.150825666,high v low t
+20,17,-4.160486583,high v low t
+21,18,-4.176277718,high v low t
+22,19,-4.194982094,high v low t
+23,20,-4.212392071,high v low t
+24,21,-4.256247364,high v low t
+25,10,-4.035366135,low v high t
+26,11,-4.062215071,low v high t
+27,12,-4.083115994,low v high t
+28,13,-4.119593212,low v high t
+29,14,-4.12109454,low v high t
+30,15,-4.136020398,low v high t
+31,16,-4.159894727,low v high t
+32,17,-4.164543611,low v high t
+33,18,-4.186919541,low v high t
+34,19,-4.207342864,low v high t
+35,20,-4.213665389,low v high t
+36,21,-4.246992757,low v high t
